@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
   ], function(WebScene, SceneView, Home) {
     
     var scene = new WebScene({
-      basemap: "topo",
+      basemap: "streets",
       portalItem: {
         id: "8046207c1c214b5587230f5e5f8efc77"
       }
